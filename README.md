@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=upishanker&no-frame=true&no-bg=true&theme=chalk" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=upishanker&no-frame=true&no-bg=true&theme=chalk" height="200" alt="languages graph"  />
 </div>
 
 ###
