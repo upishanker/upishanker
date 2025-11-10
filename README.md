@@ -1,8 +1,8 @@
-<h2 align="center">Hi &nbsp <img src="https://bluemoji.io/cdn-proxy/646218c67da47160c64a84d5/66b3ea338a302af8c2b8cc58_47.png" width="50"> &nbsp! I'm Upi, a passionate researcher and developer exploring AI, full-stack development, and data analytics.</h2>
+<h2 align="center">Hi &nbsp <img src="https://bluemoji.io/cdn-proxy/646218c67da47160c64a84d5/66b3ea338a302af8c2b8cc58_47.png" width="50"> &nbsp! I'm Upi, a passionate developer and researcher exploring AI and full-stack development</h2>
 
 ###
 
-<p align="left">Currently I am:<br>• a Research Assistant at FSU<br>• a Data Analytics Intern at the DeVoe L. Moore Center<br>• a Front-End Web Developer at Voxel Labs<br>• an AI Automation Extern at Outamation<br>• an AI Trainer at Outlier</p>
+<p align="left">Currently I am:<br>• a Software Development Intern at FSU ITS<br>• an Analytics Services Intern for St. Jude Children's Research Hospital <br>• a Research Assistant at FSU<br>
 
 ###
 
@@ -49,7 +49,12 @@
 <div align="center">
   <a href="mailto:upishanker1@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/></a>
   <a href="https://linkedin.com/in/upishanker" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/></a>
+<a href="https://upishanker.com" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Website&logo=google-chrome&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="website logo"/>
+</a>
+
 </div>
+
 
 ###
 
